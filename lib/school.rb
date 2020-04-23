@@ -17,6 +17,8 @@ class School
   end
 
   def sort
+    @roster.select do |grade|
+    end
   end
 
 end
